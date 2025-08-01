@@ -1384,7 +1384,7 @@
   "permanently_deleted_asset": "永久刪除的檔案",
   "permanently_deleted_assets_count": "永久刪除的 {count, plural, one {# 個檔案} other {# 個檔案}}",
   "permission": "權限",
-  "permission_empty": "你沒有權限",
+  "permission_empty": "權限不能為空",
   "permission_onboarding_back": "返回",
   "permission_onboarding_continue_anyway": "確認繼續",
   "permission_onboarding_get_started": "開始使用",
